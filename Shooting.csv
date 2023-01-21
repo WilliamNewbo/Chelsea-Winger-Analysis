@@ -1,0 +1,6 @@
+First Name,Last Name,Age,Position(s),Goals,Shots,Shots on target,Percentage of Shots on target,Shots per 90,Shots on target per 90,Goals per shot,Goals per shot on target,Average Distance of shots,Shots from free kicks,Shots from penalties,PA,xG,Non-peanlty xG,Non-penalty xG/Sh,Goals - xG,On-Off,xG while on,GA while on,xG+/-,xG+/- per 90,On-Off
+Hakim,Ziyech,29,"AM, RW",0,17,6,35.3,2.91,1.03,0,0,21.2,2,0,0,0.7,0.7,0.04,-0.7,-1.63,4.7,4.5,0.2,0.05,-0.06
+Christian,Pulisic,24,"LW, RW",1,20,6,30,2.24,0.67,0.05,0.17,16.4,0,0,0,1.5,1.5,0.09,-0.5,-0.46,11.5,9.9,1.5,0.19,0.13
+Raheem,Sterling,28,"LW, RW, ST",6,27,12,44.4,1.52,0.68,0.22,0.5,12.4,0,0,0,4,4,0.16,2,0.57,21.8,19.6,2.2,0.12,0.08
+Mykhailo,Mudryk,22,LW,3,9,6,66.7,1.57,1.05,0.33,0.5,19.4,1,0,0,1.1,1.1,0.12,1.9,3.58,3.5,10.4,-6.8,-1.19,-0.06
+Chukwunonso,Madueke,20,"RW, LW",1,20,8,40,4.68,1.87,0.05,0.13,13.6,0,0,0,2.9,2.9,0.15,-1.9,-1.28,11.7,5.6,6.2,1.44,0.43
