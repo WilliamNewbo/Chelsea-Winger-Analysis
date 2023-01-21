@@ -1,6 +1,6 @@
 First Name,Last Name,Age,Position(s),Footed,Height,Nationality,Club, Weekly Wages , Transfer Fee 
-Hakim,Ziyech,29,"AM, RW",Left,180,Morocco,Chelsea," £100,000.00 "," £33,000,000.00 "
-Christian,Pulisic,24,"LW, RW",Right,172,United States,Chelsea," £150,000.00 "," £58,000,000.00 "
-Raheem,Sterling,28,"LW, RW, ST",Right,170,England,Chelsea," £325,000.00 "," £45,000,000.00 "
-Mykhailo,Mudryk,22,LW,Right,175,Ukraine,Chelsea," £97,000.00 "," £87,000,000.00 "
-Chukwunonso,Madueke,20,"RW, LW",Left,176,England,Chelsea, Unknown ," £29,000,000.00 "
+Hakim,Ziyech,29,"AM, RW",Left,180,Morocco,Chelsea,100000,33000000
+Christian,Pulisic,24,"LW, RW",Right,172,United States,Chelsea,150000,58000000
+Raheem,Sterling,28,"LW, RW, ST",Right,170,England,Chelsea,325000,45000000
+Mykhailo,Mudryk,22,LW,Right,175,Ukraine,Chelsea,97000,87000000
+Chukwunonso,Madueke,20,"RW, LW",Left,176,England,Chelsea, Unknown ,29000000
